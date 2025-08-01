@@ -33,4 +33,4 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tejaskhandwekar)  
 - 🧠 Open to **collaboration**, **research**, and **internship opportunities** in applied AI and Forecasting
-- 📬 tejas5589@gmail.com , tkhandwekar@gatech.edu
+- 📬 tejas5589@gmail.com , tkhandwekar3@gatech.edu
