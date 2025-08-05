@@ -3,7 +3,7 @@
 🎓 Graduate student in Analytics | 🧠 Applied Machine Learning, Forecasting & Generative AI Enthusiast  
 📍 Passionate about building **data-driven systems** that are practical, explainable, and impactful.
 
-🌐 My Website :  [https://tejaskhandwekar.github.io/]
+🌐 My Website :  https://tejaskhandwekar.github.io/
 
 ---
 
